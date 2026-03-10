@@ -1,0 +1,3 @@
+[submodule "configserver/src/main/resources/config"]
+	path = configserver/src/main/resources/config
+	url = https://github.com/Ipsita0301/EazyBank-config.git
